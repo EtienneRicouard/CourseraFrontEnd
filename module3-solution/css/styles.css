@@ -34,6 +34,11 @@ a:hover, a:focus {
     background-color: lightgray;
 }
 
+#nav-list {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 #nav-list a {
     color: black;
     border: 1px solid black;
@@ -45,6 +50,4 @@ a:hover, a:focus {
 
 #main-content {
     background-color: #5F9EA0;
-    padding-left: 0;
-    padding-right: 0;
 }
