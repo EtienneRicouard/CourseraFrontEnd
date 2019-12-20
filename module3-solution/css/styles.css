@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin : 0 0 0 0;
+    color: black;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+  }
+
+#header-nav {
+    background-color: lightgray;
+}
+
+#main-content {
+    background-color: #5F9EA0;
+}
+
+.navbar-nav>li>a {
+    background-color: #DEB887;
+}
